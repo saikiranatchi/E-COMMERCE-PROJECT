@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/E-COMMERCE-PROJECT/static/js/main.f820b336.js",
+    "main.css": "/E-COMMERCE-PROJECT/static/css/main.4c0654d7.css",
+    "main.js": "/E-COMMERCE-PROJECT/static/js/main.7553ff3c.js",
     "static/media/banner1.png": "/E-COMMERCE-PROJECT/static/media/banner1.438bae483b66fd3a492d.png",
     "static/media/banner4.jpg": "/E-COMMERCE-PROJECT/static/media/banner4.2da17499a325eb9c84ae.jpg",
     "static/media/hp2.jpg": "/E-COMMERCE-PROJECT/static/media/hp2.76a12ad19fab0179d0d7.jpg",
@@ -74,9 +75,11 @@
     "static/media/samtab7.webp": "/E-COMMERCE-PROJECT/static/media/samtab7.40302481297a5a6dddac.webp",
     "static/media/samtab4.webp": "/E-COMMERCE-PROJECT/static/media/samtab4.ca3161418bc8750352b6.webp",
     "index.html": "/E-COMMERCE-PROJECT/index.html",
-    "main.f820b336.js.map": "/E-COMMERCE-PROJECT/static/js/main.f820b336.js.map"
+    "main.4c0654d7.css.map": "/E-COMMERCE-PROJECT/static/css/main.4c0654d7.css.map",
+    "main.7553ff3c.js.map": "/E-COMMERCE-PROJECT/static/js/main.7553ff3c.js.map"
   },
   "entrypoints": [
-    "static/js/main.f820b336.js"
+    "static/css/main.4c0654d7.css",
+    "static/js/main.7553ff3c.js"
   ]
 }
